@@ -3,7 +3,7 @@
 <p><em>Graduate Student at <a href="https://www.rpi.edu">Rensselaer Polytechnic Institute</br> 
 </em></p>
 
-[![Linkedin: fuad-hasibul-hasan](https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/fuad-hasibul-hasan/)
+[![Linkedin: fuad-hasibul-hasan](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/fuad-hasibul-hasan/)
 [![GitHub Fuad-HH](https://img.shields.io/github/followers/Fuad-HH)](https://github.com/Fuad-HH)
 [![Email: fuad_h_hasan](https://img.shields.io/badge/Gmail-Send_an_Email-blue?style=social&logo=gmail)](mailto:fuadhhasan.for@gmail.com)
 
