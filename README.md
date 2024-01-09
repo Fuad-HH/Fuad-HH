@@ -1,4 +1,4 @@
-<h2> Hi, I'm Fuad Hasan! <img src="https://media.giphy.com/media/8wVNTWVBz7FWq1dXb4/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Fuad! <img src="https://media.giphy.com/media/8wVNTWVBz7FWq1dXb4/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY291aHNlemdlbGJkb3pxNTNtbGt6YWV5dGw5M2g0OGJmcmtvYWVuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FESR3LbaChnOooURd1/source.gif" width="120">
 <p><em>Graduate Student at <a href="https://www.rpi.edu">Rensselaer Polytechnic Institute</br> 
 </em></p>
@@ -12,13 +12,7 @@
 ```cpp
 #include <grow_up.hpp>
 
-using GrowUP::read_more_books;
-using GrowUP::talk_a_lot;
-using GrowUP::code_more;
-using GrowUP::travel_more;
-using GrowUP::be_more_awesome;
-
-struct fuad{
+struct Fuad{
     const std::string name = "Fuad Hasan";
     const std::string major = "Nuclear Engineering";
     std::vector<std::string> languages = {"C++", "Python"};
@@ -27,13 +21,13 @@ struct fuad{
                                         "Nuclear Fission and Fusion", "Radiation Interactions"};
 };
 
-fuad get_upgrade(fuad current_me){
-    fuad new_me;
-    code_more(current_me);
-    read_more_books(current_me);
-    talk_a_lot(current_me);
-    travel_more(current_me);
-    be_more_awesome(current_me);
+Fuad get_upgrade(Fuad current_me){
+    Fuad new_me;
+    GrowUp::code_more(current_me);
+    GrowUp::read_more_books(current_me);
+    GrowUp::talk_a_lot(current_me);
+    GrowUp::travel_more(current_me);
+    GrowUp::be_more_awesome(current_me);
   
     return new_me;
 }
