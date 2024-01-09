@@ -1,5 +1,5 @@
-### Hi there 👋
-You have landed on Fuad's planet. I am a nuclear engineer and interested in scientific computation. I am currently pursuing my PhD in nuclear engineering at the Rensselaer Polytechnic Institute. I am working in the [Lab for Accelerated Computing In Engineering and Science (LACES)](https://laces-lab.github.io/) as a research assistant. Please visit my website [here](https://fuad-hh.github.io/) to know more about me.
+### Hi there 👋! You have landed on Fuad's planet:earth_asia:
+ He is a nuclear engineer and interested in scientific computation. He is currently pursuing his PhD in nuclear engineering at the Rensselaer Polytechnic Institute and working in the [Lab for Accelerated Computing In Engineering and Science (LACES)](https://laces-lab.github.io/) as a research assistant. Please visit his website [here](https://fuad-hh.github.io/) to know more about him.
 
 <!--
 **Fuad-HH/Fuad-HH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
