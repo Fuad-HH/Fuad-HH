@@ -36,7 +36,7 @@ Fuad get_upgrade(Fuad current_me){
 int main(int argc, char* argv[])
 {
     fuad new_me = get_upgrade();
-    return 0;
+    return 0; // pun intended xD
 }
 ```
 ---
