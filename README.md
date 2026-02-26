@@ -1,5 +1,5 @@
 <h2> Hi, I'm Fuad! <img src="https://media.giphy.com/media/8wVNTWVBz7FWq1dXb4/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY291aHNlemdlbGJkb3pxNTNtbGt6YWV5dGw5M2g0OGJmcmtvYWVuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FESR3LbaChnOooURd1/source.gif" width="120">
+
 <p><em>Graduate Student at <a href="https://www.rpi.edu">Rensselaer Polytechnic Institute</br> 
 </em></p>
 
