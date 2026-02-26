@@ -8,7 +8,7 @@
 [![GitHub Fuad-HH](https://img.shields.io/github/followers/Fuad-HH)](https://github.com/Fuad-HH)
 [![Email: fuad_h_hasan](https://img.shields.io/badge/Gmail-Send_an_Email-blue?style=social&logo=gmail)](mailto:fuadhhasan.for@gmail.com)
 
-I am a PhD student at Rensselaer Polytechnic Institute(RPI). I work on massively parallel, distributed unstructured mesh and particle methods for fusion applications.
+I am a PhD student at Rensselaer Polytechnic Institute(RPI). I work on massively parallel, distributed unstructured mesh and particle methods for fusion applications. Visit my website for more at [hasanfuad.com](https://www.hasanfuad.com).
 <!--
 #### A little more about me...
 
