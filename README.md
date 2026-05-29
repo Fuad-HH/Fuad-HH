@@ -8,39 +8,3 @@
 [![Email: fuad_h_hasan](https://img.shields.io/badge/Gmail-Send_an_Email-blue?style=social&logo=gmail)](mailto:fuadhhasan.for@gmail.com)
 
 I am a PhD student at Rensselaer Polytechnic Institute(RPI). I work on massively parallel, distributed unstructured mesh and particle methods for fusion applications. Visit my website for more at [hasanfuad.com](https://www.hasanfuad.com).
-<!--
-#### A little more about me...
-
-```cpp
-#include <grow_up.hpp>
-
-struct Fuad{
-    const std::string name = "Fuad Hasan";
-    const std::string major = "Nuclear Engineering";
-    std::vector<std::string> languages = {"C++", "Python"};
-    std::vector<std::string> hobbies = {"Reading", "Coding", "Traveling", "Cooking"};
-    std::vector<std::string> interests = {"Scientific Computation", 
-                                        "Nuclear Fission and Fusion", "Radiation Interactions"};
-};
-
-Fuad get_upgrade(Fuad current_me){
-    Fuad new_me;
-    GrowUp::code_more(current_me);
-    GrowUp::read_more_books(current_me);
-    GrowUp::talk_a_lot(current_me);
-    GrowUp::travel_more(current_me);
-    GrowUp::be_more_awesome(current_me);
-  
-    return new_me;
-}
-
-int main(int argc, char* argv[])
-{
-    fuad new_me = get_upgrade();
-    return 0; // pun intended xD
-}
-```
----
-
-<sup><sub>[Stolen from [Thaiane](https://github.com/Thaiane/Thaiane)]</sub></sup>
--->
